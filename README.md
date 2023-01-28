@@ -1,6 +1,6 @@
 # PROGRAMAVISIÓN
 
-## UTOR:
+## AUTOR:
 - Rey7910
 
 ## Descripción.
