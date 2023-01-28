@@ -1,9 +1,9 @@
-PROGRAMAVISIÓN
+# PROGRAMAVISIÓN
 
-AUTOR:
+## UTOR:
 - Rey7910
 
-Descripción.
+## Descripción.
 Programavisión es un pequeño lenguaje de programación de dominio específico enfocado al aprendizaje e
 introducción a la programación para las personas no videntes con la ayuda de un periférico de 6 teclas haciendo
 de Progravisión, un lenguaje de programación cuyo alfabeto presenta únicamente seis símbolos para mayor facilidad
